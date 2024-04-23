@@ -32,7 +32,7 @@ npm run start:dev
 ```
 
 ## Documentação da API
-http://localhost:3000/api
+[Documentação](154.12.242.99:3000/api).
 
 ## ✒️ Authors
 
