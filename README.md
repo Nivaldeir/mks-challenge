@@ -32,7 +32,7 @@ npm run start:dev
 ```
 
 ## Documentação da API
-[Documentação](https://154.12.242.99:3000/api).
+154.12.242.99:3000/api.
 
 ## ✒️ Authors
 
